@@ -1,0 +1,2 @@
+For example, the denoising training set D contains 4 noisy images and 2 clean images. 
+As for the proposed TCFL-based networks, the number of all the possible triplet combinations from D will be C_4^2 * C_2^1, which  is equal to 12.
